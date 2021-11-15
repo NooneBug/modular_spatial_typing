@@ -1,0 +1,2 @@
+pytorch_lightning==1.5.1
+adapter_transformers==2.2.0
